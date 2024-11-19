@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Models\bin\Debug\net8.0\mymvc.Models.deps.json
+C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Models\bin\Debug\net8.0\mymvc.Models.dll
+C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Models\bin\Debug\net8.0\mymvc.Models.pdb
+C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Models\obj\Debug\net8.0\mymvc.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Models\obj\Debug\net8.0\mymvc.Models.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Models\obj\Debug\net8.0\mymvc.Models.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Models\obj\Debug\net8.0\mymvc.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Models\obj\Debug\net8.0\mymvc.Models.dll
+C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Models\obj\Debug\net8.0\refint\mymvc.Models.dll
+C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Models\obj\Debug\net8.0\mymvc.Models.pdb
+C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Models\obj\Debug\net8.0\ref\mymvc.Models.dll
