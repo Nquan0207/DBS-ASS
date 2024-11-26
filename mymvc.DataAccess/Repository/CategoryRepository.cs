@@ -20,7 +20,7 @@ namespace mymvc.DataAccess.Repository
 
         public void update(Category obj)
         {
-            _db.Update(obj);
+            _db.Categories.Update(obj);
         }
     }
 }

@@ -14,11 +14,17 @@ namespace mymvc.DataAccess.Repository
         private ApplicationDbContext _db;
 
         public ICategoryRepository Category { get; private set; }
+        public IProductRepository Product { get; private set; }
+        public IScheduleRepository Schedule { get; private set; }
+        public ICourseRepository Course { get; private set; }
 
         public UnitOfWork(ApplicationDbContext db)
         {
             _db = db;
             Category = new CategoryRepository(_db);
+            Product = new ProductRepository(_db);
+            Schedule = new ScheduleRepository(_db);
+            Course = new CourseRepository(_db);
         }
 
         public void Save()

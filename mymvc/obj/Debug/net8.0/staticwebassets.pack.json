@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\mymvc.bundle.scp.css",
-      "PackagePath": "staticwebassets\\mymvc.t4ogxlmtdt.bundle.scp.css"
+      "PackagePath": "staticwebassets\\mymvc.jijnblkndp.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\css\\site.css",
@@ -11,6 +11,22 @@
     {
       "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\images\\product\\64abb71e-0cd6-4933-b657-51eb81e569bc.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\64abb71e-0cd6-4933-b657-51eb81e569bc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\images\\product\\e884f83d-8897-468e-9865-4826cc940398.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e884f83d-8897-468e-9865-4826cc940398.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\js\\schedule.js",
+      "PackagePath": "staticwebassets\\js\\schedule.js"
     },
     {
       "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\js\\site.js",

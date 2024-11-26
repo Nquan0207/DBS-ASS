@@ -5,7 +5,9 @@ C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Utility\obj\De
 C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Utility\obj\Debug\net8.0\mymvc.Utility.AssemblyInfoInputs.cache
 C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Utility\obj\Debug\net8.0\mymvc.Utility.AssemblyInfo.cs
 C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Utility\obj\Debug\net8.0\mymvc.Utility.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Utility\obj\Debug\net8.0\mymvc.Utility.sourcelink.json
 C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Utility\obj\Debug\net8.0\mymvc.Utility.dll
 C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Utility\obj\Debug\net8.0\refint\mymvc.Utility.dll
 C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Utility\obj\Debug\net8.0\mymvc.Utility.pdb
 C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Utility\obj\Debug\net8.0\ref\mymvc.Utility.dll
+C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Utility\obj\Debug\net8.0\mymvc.Utility.csproj.AssemblyReference.cache

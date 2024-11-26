@@ -4,15 +4,18 @@ using System.Data.Common;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using mymvc.DataAccess.Data;
 using mymvc.DataAccess.Repository.IRepository;
 using mymvc.Models;
+using mymvc.Utility;
 
 namespace mymvc.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _UnitOfWork;
