@@ -12,8 +12,11 @@ namespace mymvc.DataAccess.Data
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) :base(options)
         {
-            
+
         }
+        public DbSet<Test> Tests { get; set; }
+        public DbSet<Models.Monitor> Monitors { get; set; }
+        public DbSet<Lecturer> Lecturers { get; set; }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<Schedule> Schedules { get; set; }
@@ -23,6 +26,29 @@ namespace mymvc.DataAccess.Data
         {
             base.OnModelCreating(modelBuilder);
 
+            modelBuilder.Entity<Test>().HasKey(t => new { t.TESTID, t.CourseId });
+
+            modelBuilder.Entity<Models.Monitor>().HasKey(t => new { t.CourseId, t.LID });
+
+            modelBuilder.Entity<Lecturer>().HasData(
+                new Lecturer
+                {
+                    LID = 1,
+                    EMAIL = "UIroh@hcmut.edu.vn",
+                    FULL_NAME = "Uncle Iroh",
+                    PHONE_NUMBER = "0987654321",
+                    DEPARTMENT = "Engineering"
+                },
+                new Lecturer
+                {
+                    LID = 2,
+                    EMAIL = "EFMark@hcmut.edu.vn",
+                    FULL_NAME = "Mark Edward Fischbach",
+                    PHONE_NUMBER = "0135791113",
+                    DEPARTMENT = "Computer Science"
+                }
+
+            );
             modelBuilder.Entity<Schedule>().HasData(
                 new Schedule
                 {

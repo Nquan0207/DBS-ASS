@@ -18,3 +18,23 @@ C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.DataAccess\obj
 C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.DataAccess\obj\Debug\net8.0\mymvc.DataAccess.pdb
 C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.DataAccess\obj\Debug\net8.0\mymvc.DataAccess.genruntimeconfig.cache
 C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.DataAccess\obj\Debug\net8.0\ref\mymvc.DataAccess.dll
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.DataAccess\bin\Debug\net8.0\mymvc.DataAccess.deps.json
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.DataAccess\bin\Debug\net8.0\mymvc.DataAccess.runtimeconfig.json
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.DataAccess\bin\Debug\net8.0\mymvc.DataAccess.dll
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.DataAccess\bin\Debug\net8.0\mymvc.DataAccess.pdb
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.DataAccess\bin\Debug\net8.0\mymvc.Models.dll
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.DataAccess\bin\Debug\net8.0\mymvc.Utility.dll
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.DataAccess\bin\Debug\net8.0\mymvc.Models.pdb
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.DataAccess\bin\Debug\net8.0\mymvc.Utility.pdb
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.DataAccess\obj\Debug\net8.0\mymvc.DataAccess.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.DataAccess\obj\Debug\net8.0\mymvc.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.DataAccess\obj\Debug\net8.0\mymvc.DataAccess.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.DataAccess\obj\Debug\net8.0\mymvc.DataAccess.AssemblyInfo.cs
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.DataAccess\obj\Debug\net8.0\mymvc.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.DataAccess\obj\Debug\net8.0\mymvc.DataAccess.sourcelink.json
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.DataAccess\obj\Debug\net8.0\mymvc.Da.9647E296.Up2Date
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.DataAccess\obj\Debug\net8.0\mymvc.DataAccess.dll
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.DataAccess\obj\Debug\net8.0\refint\mymvc.DataAccess.dll
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.DataAccess\obj\Debug\net8.0\mymvc.DataAccess.pdb
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.DataAccess\obj\Debug\net8.0\mymvc.DataAccess.genruntimeconfig.cache
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.DataAccess\obj\Debug\net8.0\ref\mymvc.DataAccess.dll
