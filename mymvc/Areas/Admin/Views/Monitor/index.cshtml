@@ -31,8 +31,8 @@
                 @foreach (var thing in Model)
                 {
                     <tr>
-                        <td>@thing.LID</td>
-                        <td>@thing.CourseId</td>
+                        <td>@thing.Lecturer.FULL_NAME</td>
+                        <td>@thing.Course.CourseName</td>
                         <td>
                             <div class="w-75 btn-group" role="group">
                                 @* <a asp-controller="Monitor" asp-action="UpsertLecturer" asp-route-id="@thing.LID" asp-route-id2="@thing.CourseId" class="btn btn-primary mx-2">

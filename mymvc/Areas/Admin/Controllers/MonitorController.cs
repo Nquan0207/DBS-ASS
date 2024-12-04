@@ -23,9 +23,14 @@ namespace mymvc.Areas.Admin.Controllers
         }
         public IActionResult Index()
         {
-            MonitorIndexVM objMonitorIndexList = new();
-            objMonitorIndexList.ListCount = 0;
+            /*MonitorIndexVM objMonitorIndexList = new();
+            objMonitorIndexList.ListCount = 0;*/
             List<Models.Monitor> objMonitorList = _UnitOfWork.Monitor.GetAll().ToList();
+            foreach (Models.Monitor monitor in objMonitorList)
+            {
+                monitor.Course = _UnitOfWork.Course.Get(u => u.CourseId == monitor.CourseId);
+                monitor.Lecturer = _UnitOfWork.Lecturer.Get(u => u.LID == monitor.LID);
+            }
             /*List<Lecturer> objLecturerList = _UnitOfWork.Lecturer.GetAll().ToList();
             List<Course> objCourseList = _UnitOfWork.Course.GetAll().ToList();
 
@@ -88,6 +93,19 @@ namespace mymvc.Areas.Admin.Controllers
                 return View(MonitorCourseVM);
             }
         }
+        public IActionResult Delete(int? id, int? id2)
+        {
+            if (id == null || id2 == null) return NotFound();
+
+            Models.Monitor monitor = _UnitOfWork.Monitor.Get(u => u.LID == id && u.CourseId == id2);
+
+            if (monitor == null) return NotFound();
+
+            monitor.Course = _UnitOfWork.Course.Get(u => u.CourseId == monitor.CourseId);
+            monitor.Lecturer = _UnitOfWork.Lecturer.Get(u => u.LID == monitor.LID);
+
+            return View(monitor);
+        }
         /*[HttpPost]*/
         public IActionResult UpsertCourse1(MonitorCourseVM MonitorCourseVM)
         {
@@ -99,15 +117,17 @@ namespace mymvc.Areas.Admin.Controllers
                 if (MonitorCourseVM.IsCreate)
                 {
                     _UnitOfWork.Monitor.Add(MonitorCourseVM.Monitor);
-                    TempData["success"] = "Schedule created successfully!!!";
+                    TempData["success"] = "Monitor created successfully!!!";
                 }
                 else
                 {
                     _UnitOfWork.Monitor.update(MonitorCourseVM.Monitor);
-                    TempData["success"] = "Schedule updated successfully!!!";
+                    TempData["success"] = "Monitor updated successfully!!!";
                 }
                 _UnitOfWork.Save();
             }
+            else
+                TempData["error"] = "Monitor already existed";
             return RedirectToAction("Index");
         }
         /*public IActionResult UpsertLecturer1(int id, int id2)
@@ -124,7 +144,7 @@ namespace mymvc.Areas.Admin.Controllers
         }*/
 
         /*[HttpDelete]*/
-        public IActionResult Delete(int? id, int? id2)
+        public IActionResult Delete1(int? id, int? id2)
         {
             var MonitorToBeDeleted = _UnitOfWork.Monitor.Get(u => u.LID == id && u.CourseId== id2);
             if (MonitorToBeDeleted == null)
@@ -133,7 +153,8 @@ namespace mymvc.Areas.Admin.Controllers
             }
 
             _UnitOfWork.Monitor.Remove(MonitorToBeDeleted);
-            _UnitOfWork.Save();
+            _UnitOfWork.Save(); 
+            TempData["success"] = "Monitor deleted successfully!!!";
             return RedirectToAction("Index");/*Json(new { success = true, message = "Delete Successful" });*/
         }
 

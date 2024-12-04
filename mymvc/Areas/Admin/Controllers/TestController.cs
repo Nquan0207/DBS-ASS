@@ -28,6 +28,12 @@ namespace mymvc.Areas.Admin.Controllers
         public IActionResult Index()
         {
             List<Test> objTestList = _UnitOfWork.Test.GetAll().ToList();
+
+            foreach (Test icle in objTestList)
+            {
+                icle.Course = _UnitOfWork.Course.Get(u => u.CourseId == icle.CourseId);
+            }
+
             return View(objTestList);
         }
         public IActionResult Create()
@@ -119,7 +125,7 @@ namespace mymvc.Areas.Admin.Controllers
             {
                 _UnitOfWork.Test.Remove(obj);
                 _UnitOfWork.Save();
-                TempData["success"] = "Course deleted successfully!!!";
+                TempData["success"] = "Test deleted successfully!!!";
                 return RedirectToAction("Index");
             }
             return View();
