@@ -45,11 +45,11 @@ namespace mymvc.Areas.Admin.Controllers
                 }),
                 Schedule = new Schedule()
             };
-            if(id==null||id==0) return View(scheduleVM); //create
+            if (id == null || id == 0) return View(scheduleVM); //create
             else
             {
                 //update
-                scheduleVM.Schedule = _UnitOfWork.Schedule.Get(u=>u.ScheduleId == id);
+                scheduleVM.Schedule = _UnitOfWork.Schedule.Get(u => u.ScheduleId == id);
                 return View(scheduleVM);
             }
         }

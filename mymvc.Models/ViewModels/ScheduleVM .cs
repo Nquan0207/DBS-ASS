@@ -11,7 +11,12 @@ namespace mymvc.Models.ViewModels
     public class ScheduleVM
     {
         public Schedule Schedule { get; set; }
+        public CreateSchedule CreateSchedule { get; set; }
+
         [ValidateNever]
         public IEnumerable<SelectListItem> CourseList { get; set; }
+
+        public IEnumerable<SelectListItem> CreateScheduleList { get; set; }
+
     }
 }

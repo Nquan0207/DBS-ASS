@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using mymvc.Models;
 
+
+
 namespace mymvc.DataAccess.Data
 {
     public class ApplicationDbContext : IdentityDbContext
@@ -18,9 +20,15 @@ namespace mymvc.DataAccess.Data
         public DbSet<Product> Products { get; set; }
         public DbSet<Schedule> Schedules { get; set; }
         public DbSet<Course> Courses { get; set; }
+        public DbSet<Student> Students { get; set; }
+        public DbSet<CreateSchedule> CreateSchedules { get; set; }
+
+
         public DbSet<ApplicationUser> ApplicationUsers { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+
+
             base.OnModelCreating(modelBuilder);
 
             modelBuilder.Entity<Schedule>().HasData(
@@ -155,6 +163,21 @@ namespace mymvc.DataAccess.Data
                     Price100 = 20,
                     CategoryID = 3
                 }
+            );
+
+            modelBuilder.Entity<Student>().HasData(
+                new Student { Mssv = 123, Name="123" },
+                new Student { Mssv = 234, Name = "234" },
+                new Student { Mssv = 345, Name = "345" }
+            );
+
+            modelBuilder.Entity<CreateSchedule>()
+                .HasKey(cs => new { cs.Mssv, cs.ScheduleID });
+
+            modelBuilder.Entity<CreateSchedule>().HasData(
+                new CreateSchedule { Mssv = 123, ScheduleID = 123 },
+                new CreateSchedule { Mssv = 234, ScheduleID = 234 },
+                new CreateSchedule { Mssv = 345, ScheduleID = 456 }
             );
         }
     }

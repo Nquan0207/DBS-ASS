@@ -12,6 +12,9 @@ namespace mymvc.DataAccess.Repository.IRepository
         IProductRepository Product { get; }
         IScheduleRepository Schedule { get; }
         ICourseRepository Course { get; }
+        IStudentRepository Student { get; }         //
+        ICreateScheduleRepository CreateSchedule { get; }         //
+
         void Save();
     }
 }

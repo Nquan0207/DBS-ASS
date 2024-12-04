@@ -323,6 +323,29 @@ namespace mymvc.DataAccess.Migrations
                         });
                 });
 
+            modelBuilder.Entity("mymvc.Models.CreateSchedule", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("MSSV")
+                        .HasColumnType("int");
+
+                    b.Property<int>("ScheduleID")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("MSSV");
+
+                    b.HasIndex("ScheduleID");
+
+                    b.ToTable("CreateSchedules");
+                });
+
             modelBuilder.Entity("mymvc.Models.Product", b =>
                 {
                     b.Property<int>("Id")
@@ -496,6 +519,41 @@ namespace mymvc.DataAccess.Migrations
                         });
                 });
 
+            modelBuilder.Entity("mymvc.Models.Student", b =>
+                {
+                    b.Property<int>("MSSV")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("MSSV"));
+
+                    b.Property<string>("NAME")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.HasKey("MSSV");
+
+                    b.ToTable("Students");
+
+                    b.HasData(
+                        new
+                        {
+                            MSSV = 123,
+                            NAME = "123"
+                        },
+                        new
+                        {
+                            MSSV = 234,
+                            NAME = "123"
+                        },
+                        new
+                        {
+                            MSSV = 345,
+                            NAME = "123"
+                        });
+                });
+
             modelBuilder.Entity("mymvc.Models.ApplicationUser", b =>
                 {
                     b.HasBaseType("Microsoft.AspNetCore.Identity.IdentityUser");
@@ -561,6 +619,25 @@ namespace mymvc.DataAccess.Migrations
                         .IsRequired();
                 });
 
+            modelBuilder.Entity("mymvc.Models.CreateSchedule", b =>
+                {
+                    b.HasOne("mymvc.Models.Student", "Student")
+                        .WithMany("CreateSchedules")
+                        .HasForeignKey("MSSV")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("mymvc.Models.Schedule", "Schedule")
+                        .WithMany("CreateSchedules")
+                        .HasForeignKey("ScheduleID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Schedule");
+
+                    b.Navigation("Student");
+                });
+
             modelBuilder.Entity("mymvc.Models.Product", b =>
                 {
                     b.HasOne("mymvc.Models.Category", "Category")
@@ -581,6 +658,16 @@ namespace mymvc.DataAccess.Migrations
                         .IsRequired();
 
                     b.Navigation("Course");
+                });
+
+            modelBuilder.Entity("mymvc.Models.Schedule", b =>
+                {
+                    b.Navigation("CreateSchedules");
+                });
+
+            modelBuilder.Entity("mymvc.Models.Student", b =>
+                {
+                    b.Navigation("CreateSchedules");
                 });
 #pragma warning restore 612, 618
         }

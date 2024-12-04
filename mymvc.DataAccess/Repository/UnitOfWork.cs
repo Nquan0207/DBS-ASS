@@ -17,6 +17,10 @@ namespace mymvc.DataAccess.Repository
         public IProductRepository Product { get; private set; }
         public IScheduleRepository Schedule { get; private set; }
         public ICourseRepository Course { get; private set; }
+        public IStudentRepository Student { get; private set; }//
+        public ICreateScheduleRepository CreateSchedule { get; private set; }//
+
+
 
         public UnitOfWork(ApplicationDbContext db)
         {
@@ -25,6 +29,8 @@ namespace mymvc.DataAccess.Repository
             Product = new ProductRepository(_db);
             Schedule = new ScheduleRepository(_db);
             Course = new CourseRepository(_db);
+            Student = new StudentRepository(_db);           //
+            CreateSchedule = new CreateScheduleRepository(_db);           //
         }
 
         public void Save()
