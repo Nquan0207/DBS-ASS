@@ -323,70 +323,19 @@ namespace mymvc.DataAccess.Migrations
                         });
                 });
 
-            modelBuilder.Entity("mymvc.Models.Lecturer", b =>
+            modelBuilder.Entity("mymvc.Models.CreateSchedule", b =>
                 {
-                    b.Property<int>("LID")
-                        .ValueGeneratedOnAdd()
+                    b.Property<int?>("ScheduleID")
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("LID"));
-
-                    b.Property<string>("DEPARTMENT")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)");
-
-                    b.Property<string>("EMAIL")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)");
-
-                    b.Property<string>("FULL_NAME")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)");
-
-                    b.Property<string>("PHONE_NUMBER")
-                        .IsRequired()
-                        .HasMaxLength(15)
-                        .HasColumnType("nvarchar(15)");
-
-                    b.HasKey("LID");
-
-                    b.ToTable("Lecturers");
-
-                    b.HasData(
-                        new
-                        {
-                            LID = 1,
-                            DEPARTMENT = "Engineering",
-                            EMAIL = "UIroh@hcmut.edu.vn",
-                            FULL_NAME = "Uncle Iroh",
-                            PHONE_NUMBER = "0987654321"
-                        },
-                        new
-                        {
-                            LID = 2,
-                            DEPARTMENT = "Computer Science",
-                            EMAIL = "EFMark@hcmut.edu.vn",
-                            FULL_NAME = "Mark Edward Fischbach",
-                            PHONE_NUMBER = "0135791113"
-                        });
-                });
-
-            modelBuilder.Entity("mymvc.Models.Monitor", b =>
-                {
-                    b.Property<int>("CourseId")
+                    b.Property<int>("Mssv")
                         .HasColumnType("int");
 
-                    b.Property<int?>("LID")
-                        .HasColumnType("int");
+                    b.HasKey("ScheduleID", "Mssv");
 
-                    b.HasKey("CourseId", "LID");
+                    b.HasIndex("Mssv");
 
-                    b.HasIndex("LID");
-
-                    b.ToTable("Monitors");
+                    b.ToTable("CreateSchedules");
                 });
 
             modelBuilder.Entity("mymvc.Models.Product", b =>
@@ -562,6 +511,36 @@ namespace mymvc.DataAccess.Migrations
                         });
                 });
 
+            modelBuilder.Entity("mymvc.Models.Student", b =>
+                {
+                    b.Property<int>("Mssv")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Mssv"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.HasKey("Mssv");
+
+                    b.ToTable("Students");
+
+                    b.HasData(
+                        new
+                        {
+                            Mssv = 1,
+                            Name = "Test"
+                        },
+                        new
+                        {
+                            Mssv = 2,
+                            Name = "Hung"
+                        });
+                });
+
             modelBuilder.Entity("mymvc.Models.Test", b =>
                 {
                     b.Property<int>("TESTID")
@@ -648,23 +627,23 @@ namespace mymvc.DataAccess.Migrations
                         .IsRequired();
                 });
 
-            modelBuilder.Entity("mymvc.Models.Monitor", b =>
+            modelBuilder.Entity("mymvc.Models.CreateSchedule", b =>
                 {
-                    b.HasOne("mymvc.Models.Course", "Course")
+                    b.HasOne("mymvc.Models.Student", "Student")
                         .WithMany()
-                        .HasForeignKey("CourseId")
+                        .HasForeignKey("Mssv")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("mymvc.Models.Lecturer", "Lecturer")
+                    b.HasOne("mymvc.Models.Schedule", "Schedule")
                         .WithMany()
-                        .HasForeignKey("LID")
+                        .HasForeignKey("ScheduleID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Course");
+                    b.Navigation("Schedule");
 
-                    b.Navigation("Lecturer");
+                    b.Navigation("Student");
                 });
 
             modelBuilder.Entity("mymvc.Models.Product", b =>

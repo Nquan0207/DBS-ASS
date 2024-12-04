@@ -1,31 +1,31 @@
-@model MonitorLecturerVM
+@model CreateScheduleStudentVM
 
 <div class="card shadow border-0 my-4">
     <div class="card-header bg-secondary bg-gradient ml-0 py-3">
         <div class="row">
             <div class="col-12 text-center">
-                <h2 class="text-white py-2">@(Model.Lecturer.LID!=0?"Update":"Create") Monitor - Lecturer</h2>
+                <h2 class="text-white py-2">@(Model.Student.Mssv!=0?"Update":"Create") CreateSchedule - Student</h2>
             </div>
         </div>
     </div>
     <div class="card-body p-4">
-        <form asp-controller="Monitor" asp-action="UpsertCourse" class="row" enctype="multipart/form-data">
-            <input asp-for="CourseID" value="@Model.CourseID" hidden />
+        <form asp-controller="CreateSchedule" asp-action="UpsertCourse" class="row" enctype="multipart/form-data">
+            <input asp-for="ScheduleID" value="@Model.ScheduleID" hidden />
             <div class="row">
                 <div class="col-10">
                     <div class="border p-3">
                         @* <div asp-validation-summary="All"></div> *@
                         <div class="form-floating py-2 col-12">
-                            <select asp-for="Lecturer.LID" asp-items="@Model.LecturerList" class="form-select border-0 shadow">
-                                <option disabled selected>--Select Lecturer--</option>
+                            <select asp-for="Student.Mssv" asp-items="@Model.StudentList" class="form-select border-0 shadow">
+                                <option disabled selected>--Select Student--</option>
                             </select>
-                            <label asp-for="Lecturer.LID" class="ms-2"></label>
-                            <span asp-validation-for="Lecturer.LID" class="text-danger"></span>
+                            <label asp-for="Student.Mssv" class="ms-2"></label>
+                            <span asp-validation-for="Student.Mssv" class="text-danger"></span>
                         </div>
 
                         <div class="row pt-2">
                             <div class="col-6 col-md-3">
-                                @if (Model.CourseID != 0 && Model.CourseID != null)
+                                @if (Model.ScheduleID != 0 && Model.ScheduleID != null)
                                 {
                                     <button type="submit" class="btn btn-primary form-control">Update</button>
                                 }
@@ -37,7 +37,7 @@
                             </div>
 
                             <div class="col-6 col-md-3">
-                                <a asp-controller="Monitor" asp-action="Index" class="btn btn-outline-primary border form-control">
+                                <a asp-controller="CreateSchedule" asp-action="Index" class="btn btn-outline-primary border form-control">
                                     Back to List
                                 </a>
                             </div>

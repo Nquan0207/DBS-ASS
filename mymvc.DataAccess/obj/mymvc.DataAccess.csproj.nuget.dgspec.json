@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\DBS-ASS-Quan\\mymvc.DataAccess\\mymvc.DataAccess.csproj": {}
+    "C:\\Users\\ASUS\\Source\\Repos\\DBS-ASS\\mymvc.DataAccess\\mymvc.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\DBS-ASS-Quan\\mymvc.DataAccess\\mymvc.DataAccess.csproj": {
+    "C:\\Users\\ASUS\\Source\\Repos\\DBS-ASS\\mymvc.DataAccess\\mymvc.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\DBS-ASS-Quan\\mymvc.DataAccess\\mymvc.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Source\\Repos\\DBS-ASS\\mymvc.DataAccess\\mymvc.DataAccess.csproj",
         "projectName": "mymvc.DataAccess",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\DBS-ASS-Quan\\mymvc.DataAccess\\mymvc.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\DBS-ASS-Quan\\mymvc.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Source\\Repos\\DBS-ASS\\mymvc.DataAccess\\mymvc.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Source\\Repos\\DBS-ASS\\mymvc.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "E:\\one\\equipments\\VisualStudioStuff\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -33,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\DELL\\source\\repos\\DBS-ASS-Quan\\mymvc.Models\\mymvc.Models.csproj": {
-                "projectPath": "C:\\Users\\DELL\\source\\repos\\DBS-ASS-Quan\\mymvc.Models\\mymvc.Models.csproj"
+              "C:\\Users\\ASUS\\Source\\Repos\\DBS-ASS\\mymvc.Models\\mymvc.Models.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Source\\Repos\\DBS-ASS\\mymvc.Models\\mymvc.Models.csproj"
               },
-              "C:\\Users\\DELL\\source\\repos\\DBS-ASS-Quan\\mymvc.Utility\\mymvc.Utility.csproj": {
-                "projectPath": "C:\\Users\\DELL\\source\\repos\\DBS-ASS-Quan\\mymvc.Utility\\mymvc.Utility.csproj"
+              "C:\\Users\\ASUS\\Source\\Repos\\DBS-ASS\\mymvc.Utility\\mymvc.Utility.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Source\\Repos\\DBS-ASS\\mymvc.Utility\\mymvc.Utility.csproj"
               }
             }
           }
@@ -110,25 +106,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\DELL\\source\\repos\\DBS-ASS-Quan\\mymvc.Models\\mymvc.Models.csproj": {
+    "C:\\Users\\ASUS\\Source\\Repos\\DBS-ASS\\mymvc.Models\\mymvc.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\DBS-ASS-Quan\\mymvc.Models\\mymvc.Models.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Source\\Repos\\DBS-ASS\\mymvc.Models\\mymvc.Models.csproj",
         "projectName": "mymvc.Models",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\DBS-ASS-Quan\\mymvc.Models\\mymvc.Models.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\DBS-ASS-Quan\\mymvc.Models\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Source\\Repos\\DBS-ASS\\mymvc.Models\\mymvc.Models.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Source\\Repos\\DBS-ASS\\mymvc.Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "E:\\one\\equipments\\VisualStudioStuff\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -221,25 +213,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\DELL\\source\\repos\\DBS-ASS-Quan\\mymvc.Utility\\mymvc.Utility.csproj": {
+    "C:\\Users\\ASUS\\Source\\Repos\\DBS-ASS\\mymvc.Utility\\mymvc.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\DBS-ASS-Quan\\mymvc.Utility\\mymvc.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Source\\Repos\\DBS-ASS\\mymvc.Utility\\mymvc.Utility.csproj",
         "projectName": "mymvc.Utility",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\DBS-ASS-Quan\\mymvc.Utility\\mymvc.Utility.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\DBS-ASS-Quan\\mymvc.Utility\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Source\\Repos\\DBS-ASS\\mymvc.Utility\\mymvc.Utility.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Source\\Repos\\DBS-ASS\\mymvc.Utility\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "E:\\one\\equipments\\VisualStudioStuff\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -324,7 +312,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

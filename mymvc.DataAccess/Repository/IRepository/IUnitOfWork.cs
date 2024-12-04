@@ -9,8 +9,8 @@ namespace mymvc.DataAccess.Repository.IRepository
     public interface IUnitOfWork
     {
         ITestRepository Test { get; }
-        IMonitorRepository Monitor { get; }
-        ILecturerRepository Lecturer { get; }
+        ICreateScheduleRepository CreateSchedule { get; }
+        IStudentRepository Student { get; }
         ICategoryRepository Category { get; }
         IProductRepository Product { get; }
         IScheduleRepository Schedule { get; }

@@ -20,7 +20,7 @@ namespace mymvc.DataAccess.Repository
             this.dbSet = _db.Set<T>();
             _db.Products.Include(u => u.Category).Include(u => u.CategoryID);
             _db.Schedules.Include(u => u.Course).Include(u => u.CourseId);
-            _db.Monitors.Include(u => u.Course).Include(u => u.CourseId);
+            _db.CreateSchedules.Include(u => u.Schedule).Include(u => u.ScheduleID);
         }
         public void Add(T entity)
         {

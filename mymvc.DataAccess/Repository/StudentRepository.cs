@@ -10,17 +10,17 @@ using mymvc.Models;
 
 namespace mymvc.DataAccess.Repository
 {
-    public class LecturerRepository : Repository<Lecturer>, ILecturerRepository
+    public class StudentRepository : Repository<Models.Student>, IStudentRepository
     {
         private ApplicationDbContext _db;
-        public LecturerRepository(ApplicationDbContext db) : base(db)
+        public StudentRepository(ApplicationDbContext db) : base(db)
         {
             _db = db;
         }
 
-        public void update(Lecturer obj)
+        public void update(Models.Student obj)
         {
-            _db.Lecturers.Update(obj);
+            _db.Students.Update(obj);
         }
     }
 }

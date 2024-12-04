@@ -7,8 +7,8 @@ using mymvc.Models;
 
 namespace mymvc.DataAccess.Repository.IRepository
 {
-    public interface IMonitorRepository : IRepository<Models.Monitor>
+    public interface ICreateScheduleRepository : IRepository<Models.CreateSchedule>
     {
-        void update(Models.Monitor obj);
+        void update(Models.CreateSchedule obj);
     }
 }

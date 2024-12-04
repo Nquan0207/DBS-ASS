@@ -12,19 +12,19 @@ using Mono.TextTemplating;
 
 namespace mymvc.Models
 {
-    [PrimaryKey(nameof(CourseId), nameof(LID))]
-    public class Monitor
+    [PrimaryKey(nameof(Mssv), nameof(ScheduleID))]
+    public class CreateSchedule
     {
-        public int CourseId { get; set; }
+        public int Mssv { get; set; }
 
-        [ForeignKey("CourseId")]
+        [ForeignKey("Mssv")]
         [ValidateNever]
-        public Course Course { get; set; }
+        public Student Student { get; set; }
 
-        public int? LID { get; set; }
+        public int? ScheduleID { get; set; }
 
-        [ForeignKey("LID")]
+        [ForeignKey("ScheduleID")]
         [ValidateNever]
-        public Lecturer Lecturer { get; set; }
+        public Schedule Schedule { get; set; }
     }
 }

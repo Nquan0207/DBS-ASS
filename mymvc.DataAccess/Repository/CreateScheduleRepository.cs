@@ -10,17 +10,17 @@ using mymvc.Models;
 
 namespace mymvc.DataAccess.Repository
 {
-    public class MonitorRepository : Repository<Models.Monitor>, IMonitorRepository
+    public class CreateScheduleRepository : Repository<Models.CreateSchedule>, ICreateScheduleRepository
     {
         private ApplicationDbContext _db;
-        public MonitorRepository(ApplicationDbContext db) : base(db)
+        public CreateScheduleRepository(ApplicationDbContext db) : base(db)
         {
             _db = db;
         }
 
-        public void update(Models.Monitor obj)
+        public void update(Models.CreateSchedule obj)
         {
-            _db.Monitors.Update(obj);
+            _db.CreateSchedules.Update(obj);
         }
     }
 }

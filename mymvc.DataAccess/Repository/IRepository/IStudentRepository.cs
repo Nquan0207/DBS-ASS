@@ -7,8 +7,8 @@ using mymvc.Models;
 
 namespace mymvc.DataAccess.Repository.IRepository
 {
-    public interface ILecturerRepository : IRepository<Lecturer>
+    public interface IStudentRepository : IRepository<Models.Student>
     {
-        void update(Lecturer obj);
+        void update(Models.Student obj);
     }
 }
