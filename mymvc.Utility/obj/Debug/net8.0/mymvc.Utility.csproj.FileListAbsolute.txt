@@ -11,3 +11,18 @@ C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Utility\obj\De
 C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Utility\obj\Debug\net8.0\mymvc.Utility.pdb
 C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Utility\obj\Debug\net8.0\ref\mymvc.Utility.dll
 C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Utility\obj\Debug\net8.0\mymvc.Utility.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.Utility\bin\Debug\net8.0\mymvc.Utility.deps.json
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.Utility\bin\Debug\net8.0\mymvc.Utility.runtimeconfig.json
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.Utility\bin\Debug\net8.0\mymvc.Utility.dll
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.Utility\bin\Debug\net8.0\mymvc.Utility.pdb
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.Utility\obj\Debug\net8.0\mymvc.Utility.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.Utility\obj\Debug\net8.0\mymvc.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.Utility\obj\Debug\net8.0\mymvc.Utility.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.Utility\obj\Debug\net8.0\mymvc.Utility.AssemblyInfo.cs
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.Utility\obj\Debug\net8.0\mymvc.Utility.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.Utility\obj\Debug\net8.0\mymvc.Utility.sourcelink.json
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.Utility\obj\Debug\net8.0\mymvc.Utility.dll
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.Utility\obj\Debug\net8.0\refint\mymvc.Utility.dll
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.Utility\obj\Debug\net8.0\mymvc.Utility.pdb
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.Utility\obj\Debug\net8.0\mymvc.Utility.genruntimeconfig.cache
+C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.Utility\obj\Debug\net8.0\ref\mymvc.Utility.dll
