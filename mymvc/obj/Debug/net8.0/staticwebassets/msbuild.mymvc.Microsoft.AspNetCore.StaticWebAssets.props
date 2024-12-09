@@ -102,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>d935gqbos5</Fingerprint>
-      <Integrity>wQeuqEXOia403TsoPdPltbnpS6jz1SqfeaJ5GDRIOZ0=</Integrity>
+      <Fingerprint>98lnowv6hm</Fingerprint>
+      <Integrity>OdMNStpjlSd/GNEkPKuwrHQO+9J4IULsX9nWMOC91MQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\schedule.js'))</OriginalItemSpec>

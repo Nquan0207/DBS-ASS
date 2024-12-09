@@ -13,6 +13,9 @@ namespace mymvc.DataAccess.Repository
     {
         private ApplicationDbContext _db;
 
+        public ITestRepository Test { get; private set; }
+        public IMonitorRepository Monitor { get; private set; }
+        public ILecturerRepository Lecturer { get; private set; }
         public ICategoryRepository Category { get; private set; }
         public IProductRepository Product { get; private set; }
         public IScheduleRepository Schedule { get; private set; }
@@ -21,6 +24,9 @@ namespace mymvc.DataAccess.Repository
         public UnitOfWork(ApplicationDbContext db)
         {
             _db = db;
+            Test = new TestRepository(_db);
+            Monitor = new MonitorRepository(_db);
+            Lecturer = new LecturerRepository(_db);
             Category = new CategoryRepository(_db);
             Product = new ProductRepository(_db);
             Schedule = new ScheduleRepository(_db);

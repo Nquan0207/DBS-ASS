@@ -18,7 +18,7 @@ using mymvc.Utility;
 namespace mymvc.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles = SD.Role_Admin)]
+    [Authorize(Roles = SD.Role_Admin + "," + SD.Role_Student)]
     public class ScheduleController : Controller
     {
         private readonly IUnitOfWork _UnitOfWork;
@@ -86,11 +86,14 @@ namespace mymvc.Areas.Admin.Controllers
         [HttpGet]
         public IActionResult GetAll()
         {
+            bool isAdmin = User.IsInRole(SD.Role_Admin);
             List<Schedule> objScheduleList = _UnitOfWork.Schedule.GetAll(includeProperties: "Course").ToList();
-            return Json(new { data = objScheduleList });
+
+            return Json(new { data = objScheduleList, isAdmin = isAdmin });
         }
 
         [HttpDelete]
+        [Authorize(Roles = SD.Role_Admin)]
         public IActionResult Delete(int? id)
         {
             var scheduleToBeDeleted = _UnitOfWork.Schedule.Get(u => u.ScheduleId == id);

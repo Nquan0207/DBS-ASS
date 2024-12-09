@@ -5,25 +5,38 @@ $(document).ready(function () {
 });
 
 function loadDataTable() {
-    dataTable = $('#tblSchedule').DataTable({
-        "ajax": { url: '/admin/schedule/getall' },
-        "columns": [
-            { data: 'course.courseName', "width": "25%" },
-            { data: 'course.credit', "width": "10%" },
-            { data: 'time', "width": "10%" },
-            { data: 'date', "width": "15%" },
-            { data: 'location', "width": "15%" },
-            {
-                data: 'scheduleId',
-                "render": function (data) {
-                    return `<div class="w-75 btn-group" role="group">
-                     <a href="/admin/schedule/upsert?id=${data}" class="btn btn-primary mx-2"> <i class="bi bi-pencil-square"></i> Edit</a>
-                     <a onClick=Delete('/admin/schedule/delete/${data}') class="btn btn-danger mx-2"> <i class="bi bi-trash-fill"></i> Delete</a>
-                    </div>`
-                },
-                "width": "25%"
-            }
-        ]
+    // Fetch the role information along with the data
+    $.getJSON('/admin/schedule/getall', function (response) {
+        var isAdmin = response.isAdmin;
+
+        dataTable = $('#tblSchedule').DataTable({
+            "data": response.data,
+            "columns": [
+                { data: 'course.courseName', "width": "25%" },
+                { data: 'course.credit', "width": "10%" },
+                { data: 'time', "width": "10%" },
+                { data: 'date', "width": "15%" },
+                { data: 'location', "width": "15%" },
+                {
+                    data: 'scheduleId',
+                    "render": function (data) {
+                        // Render the edit and delete buttons only for admins
+                        let buttons = `<div class="w-75 btn-group" role="group">
+                            <a href="/admin/schedule/upsert?id=${data}" class="btn btn-primary mx-2">
+                                <i class="bi bi-pencil-square"></i> Edit</a>`;
+
+                        if (isAdmin) {
+                            buttons += `<a onClick=Delete('/admin/schedule/delete/${data}') class="btn btn-danger mx-2">
+                                <i class="bi bi-trash-fill"></i> Delete</a>`;
+                        }
+
+                        buttons += `</div>`;
+                        return buttons;
+                    },
+                    "width": "25%"
+                }
+            ]
+        });
     });
 }
 
@@ -45,7 +58,7 @@ function Delete(url) {
                     dataTable.ajax.reload();
                     toastr.success(data.message);
                 }
-            })
+            });
         }
-    })
+    });
 }

@@ -323,6 +323,72 @@ namespace mymvc.DataAccess.Migrations
                         });
                 });
 
+            modelBuilder.Entity("mymvc.Models.Lecturer", b =>
+                {
+                    b.Property<int>("LID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("LID"));
+
+                    b.Property<string>("DEPARTMENT")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<string>("EMAIL")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<string>("FULL_NAME")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<string>("PHONE_NUMBER")
+                        .IsRequired()
+                        .HasMaxLength(15)
+                        .HasColumnType("nvarchar(15)");
+
+                    b.HasKey("LID");
+
+                    b.ToTable("Lecturers");
+
+                    b.HasData(
+                        new
+                        {
+                            LID = 1,
+                            DEPARTMENT = "Engineering",
+                            EMAIL = "UIroh@hcmut.edu.vn",
+                            FULL_NAME = "Uncle Iroh",
+                            PHONE_NUMBER = "0987654321"
+                        },
+                        new
+                        {
+                            LID = 2,
+                            DEPARTMENT = "Computer Science",
+                            EMAIL = "EFMark@hcmut.edu.vn",
+                            FULL_NAME = "Mark Edward Fischbach",
+                            PHONE_NUMBER = "0135791113"
+                        });
+                });
+
+            modelBuilder.Entity("mymvc.Models.Monitor", b =>
+                {
+                    b.Property<int>("CourseId")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("LID")
+                        .HasColumnType("int");
+
+                    b.HasKey("CourseId", "LID");
+
+                    b.HasIndex("LID");
+
+                    b.ToTable("Monitors");
+                });
+
             modelBuilder.Entity("mymvc.Models.Product", b =>
                 {
                     b.Property<int>("Id")
@@ -496,6 +562,27 @@ namespace mymvc.DataAccess.Migrations
                         });
                 });
 
+            modelBuilder.Entity("mymvc.Models.Test", b =>
+                {
+                    b.Property<int>("TESTID")
+                        .HasColumnType("int");
+
+                    b.Property<int>("CourseId")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("Date")
+                        .HasColumnType("datetime2");
+
+                    b.Property<TimeSpan>("Time")
+                        .HasColumnType("time");
+
+                    b.HasKey("TESTID", "CourseId");
+
+                    b.HasIndex("CourseId");
+
+                    b.ToTable("Tests");
+                });
+
             modelBuilder.Entity("mymvc.Models.ApplicationUser", b =>
                 {
                     b.HasBaseType("Microsoft.AspNetCore.Identity.IdentityUser");
@@ -561,6 +648,25 @@ namespace mymvc.DataAccess.Migrations
                         .IsRequired();
                 });
 
+            modelBuilder.Entity("mymvc.Models.Monitor", b =>
+                {
+                    b.HasOne("mymvc.Models.Course", "Course")
+                        .WithMany()
+                        .HasForeignKey("CourseId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("mymvc.Models.Lecturer", "Lecturer")
+                        .WithMany()
+                        .HasForeignKey("LID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Course");
+
+                    b.Navigation("Lecturer");
+                });
+
             modelBuilder.Entity("mymvc.Models.Product", b =>
                 {
                     b.HasOne("mymvc.Models.Category", "Category")
@@ -573,6 +679,17 @@ namespace mymvc.DataAccess.Migrations
                 });
 
             modelBuilder.Entity("mymvc.Models.Schedule", b =>
+                {
+                    b.HasOne("mymvc.Models.Course", "Course")
+                        .WithMany()
+                        .HasForeignKey("CourseId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Course");
+                });
+
+            modelBuilder.Entity("mymvc.Models.Test", b =>
                 {
                     b.HasOne("mymvc.Models.Course", "Course")
                         .WithMany()

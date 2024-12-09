@@ -15,7 +15,7 @@ using mymvc.Utility;
 namespace mymvc.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles = SD.Role_Admin)]
+    [Authorize(Roles = SD.Role_Admin + "," + SD.Role_Student)]
     public class CourseController : Controller
     {
         private readonly IUnitOfWork _UnitOfWork;
@@ -23,16 +23,20 @@ namespace mymvc.Areas.Admin.Controllers
         {
             _UnitOfWork = UnitOfWork;
         }
+        
         public IActionResult Index()
         {
             List<Course> objCourseList = _UnitOfWork.Course.GetAll().ToList();
             return View(objCourseList);
         }
+
+        [Authorize(Roles = SD.Role_Admin)]
         public IActionResult Create()
         {
             return View();
         }
         [HttpPost]
+        [Authorize(Roles = SD.Role_Admin)]
         public IActionResult Create(Course obj)
         {
             if (ModelState.IsValid)
@@ -45,6 +49,7 @@ namespace mymvc.Areas.Admin.Controllers
             return View();
         }
 
+        [Authorize(Roles = SD.Role_Admin)]
         public IActionResult Edit(int? id)
         {
             if (id == null || id == 0) return NotFound();
@@ -55,6 +60,7 @@ namespace mymvc.Areas.Admin.Controllers
             return View(CourseFromDb);
         }
         [HttpPost]
+        [Authorize(Roles = SD.Role_Admin)]
         public IActionResult Edit(Course obj)
         {
             if (ModelState.IsValid)
@@ -67,6 +73,7 @@ namespace mymvc.Areas.Admin.Controllers
             return View();
         }
 
+        [Authorize(Roles = SD.Role_Admin)]
         public IActionResult Delete(int? id)
         {
             if (id == null || id == 0) return NotFound();
@@ -76,7 +83,9 @@ namespace mymvc.Areas.Admin.Controllers
 
             return View(CourseFromDb);
         }
+
         [HttpPost, ActionName("Delete")]
+        [Authorize(Roles = SD.Role_Admin)]
         public IActionResult DeletePOST(int? id)
         {
             Course? obj = _UnitOfWork.Course.Get(u => u.CourseId == id);
