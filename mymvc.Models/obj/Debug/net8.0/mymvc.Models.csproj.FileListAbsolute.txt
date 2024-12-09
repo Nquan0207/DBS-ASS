@@ -26,3 +26,5 @@ C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.Models\obj\Debug\net8.0\refint\mym
 C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.Models\obj\Debug\net8.0\mymvc.Models.pdb
 C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.Models\obj\Debug\net8.0\mymvc.Models.genruntimeconfig.cache
 C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc.Models\obj\Debug\net8.0\ref\mymvc.Models.dll
+C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Models\bin\Debug\net8.0\mymvc.Models.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc.Models\obj\Debug\net8.0\mymvc.Models.genruntimeconfig.cache

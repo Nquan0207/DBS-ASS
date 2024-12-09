@@ -552,3 +552,8 @@ C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc\obj\Debug\net8.0\refint\mymvc.dll
 C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc\obj\Debug\net8.0\mymvc.pdb
 C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc\obj\Debug\net8.0\mymvc.genruntimeconfig.cache
 C:\Users\DELL\source\repos\DBS-ASS-Quan\mymvc\obj\Debug\net8.0\ref\mymvc.dll
+C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\OneDrive\Desktop\Study\Software Engineering\MVC\mymvc\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll

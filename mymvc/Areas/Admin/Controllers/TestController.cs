@@ -17,7 +17,7 @@ using mymvc.Utility;
 namespace mymvc.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles = SD.Role_Admin)]
+    [Authorize(Roles = SD.Role_Admin + "," + SD.Role_Student)]
     public class TestController : Controller
     {
         private readonly IUnitOfWork _UnitOfWork;
