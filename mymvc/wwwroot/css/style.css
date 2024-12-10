@@ -1,0 +1,55 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    font-family: sans-serif;
+    background-image:
+}
+
+.section {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    background-image: url(../images/home/slbk.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    justify-content: center;
+    animation: change 30s infinite ease-in-out;
+}
+
+.content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+    font-size: 1.5em;
+    line-height: 1em;
+    color: #ffffff;
+    position: relative;
+    -webkit-text-stroke: 1px #696969;
+}
+
+@keyframes change {
+    0% {
+        background-image: url(../images/home/bklogo.png);
+    }
+
+    33% {
+        background-image: url(../images/home/slbk.jpg);
+    }
+    66% {
+        background-image: url(../images/home/bklogo.png);
+    }
+}
+/*.content h1::after {
+    position: absolute;
+    inset: 0 0 0 0;
+    content: attr(data-content);
+    z-index: 2;
+    -webkit-text-stroke: 2px #d2d2d2;
+}*/
