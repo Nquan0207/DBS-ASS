@@ -8135,11 +8135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc.Utility\\mymvc.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc.Utility\\mymvc.Utility.csproj",
       "projectName": "mymvc.Utility",
-      "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc.Utility\\mymvc.Utility.csproj",
+      "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc.Utility\\mymvc.Utility.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc.Utility\\obj\\",
+      "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
