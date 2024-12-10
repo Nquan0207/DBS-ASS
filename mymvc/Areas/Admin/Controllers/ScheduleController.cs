@@ -86,10 +86,9 @@ namespace mymvc.Areas.Admin.Controllers
         [HttpGet]
         public IActionResult GetAll()
         {
-            bool isAdmin = User.IsInRole(SD.Role_Admin);
             List<Schedule> objScheduleList = _UnitOfWork.Schedule.GetAll(includeProperties: "Course").ToList();
 
-            return Json(new { data = objScheduleList, isAdmin = isAdmin });
+            return Json(new { data = objScheduleList});
         }
 
         [HttpDelete]

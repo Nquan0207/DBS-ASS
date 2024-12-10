@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FBEmr7qPTYAc/qP8n8TTZIfeRLwiXJXam6G19VUkgAM=",
+  "Hash": "dK7La75cTInPI5qSIFihB4uhpjHRIHPmPdMkGY7Mzis=",
   "Source": "mymvc",
   "BasePath": "_content/mymvc",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "mymvc\\wwwroot",
       "Source": "mymvc",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "Pattern": "**"
     }
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.7\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\mymvc.styles.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\mymvc.styles.css",
       "SourceId": "mymvc",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "mymvc#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -1295,13 +1295,13 @@
       "Integrity": "dd5vWASyiOHLziPbXcyj8z0g08O6t6cZMmtUertDbRg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\mymvc.styles.css"
+      "OriginalItemSpec": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\mymvc.styles.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\mymvc.bundle.scp.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\mymvc.bundle.scp.css",
       "SourceId": "mymvc",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "mymvc#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -1316,13 +1316,13 @@
       "Integrity": "dd5vWASyiOHLziPbXcyj8z0g08O6t6cZMmtUertDbRg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\mymvc.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\mymvc.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\css\\site.css",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\favicon.ico",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\images\\product\\64abb71e-0cd6-4933-b657-51eb81e569bc.jpg",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\images\\product\\64abb71e-0cd6-4933-b657-51eb81e569bc.jpg",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "images/product/64abb71e-0cd6-4933-b657-51eb81e569bc#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\64abb71e-0cd6-4933-b657-51eb81e569bc.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\images\\product\\e884f83d-8897-468e-9865-4826cc940398.jpg",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\images\\product\\e884f83d-8897-468e-9865-4826cc940398.jpg",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "images/product/e884f83d-8897-468e-9865-4826cc940398#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1403,10 +1403,31 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\e884f83d-8897-468e-9865-4826cc940398.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\js\\product.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\js\\newschdule.js",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
+      "BasePath": "_content/mymvc",
+      "RelativePath": "js/newschdule#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "osautan4bi",
+      "Integrity": "2FgyqO0oGeKdmKja83qnUenTzmZo3FJcBnsakSLJta4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\newschdule.js"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\js\\product.js",
+      "SourceId": "mymvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "js/product#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1424,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\js\\product.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\js\\schedule.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\js\\schedule.js",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "js/schedule#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1438,17 +1459,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "98lnowv6hm",
-      "Integrity": "OdMNStpjlSd/GNEkPKuwrHQO+9J4IULsX9nWMOC91MQ=",
+      "Fingerprint": "54tp2op8ge",
+      "Integrity": "W25ohSfUjuy05JimTwsWm8sMNs7fbn1lqHnVVfV6O8w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\schedule.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\js\\site.js",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1466,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1487,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1508,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1529,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1550,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1571,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1592,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1613,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1634,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1655,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1676,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1697,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1718,10 +1739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1739,10 +1760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1760,10 +1781,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1781,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1802,10 +1823,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1823,10 +1844,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1844,10 +1865,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1865,10 +1886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1886,10 +1907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1907,10 +1928,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1928,10 +1949,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1949,10 +1970,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1970,10 +1991,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1991,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2012,10 +2033,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2033,10 +2054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2054,10 +2075,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2075,10 +2096,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2096,10 +2117,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2117,10 +2138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2138,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2159,10 +2180,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2180,10 +2201,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2201,10 +2222,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2222,10 +2243,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2243,10 +2264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2264,10 +2285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2285,10 +2306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2306,10 +2327,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2327,10 +2348,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2348,10 +2369,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2369,10 +2390,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2390,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -2411,10 +2432,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2432,10 +2453,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2453,10 +2474,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2474,10 +2495,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2495,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2516,10 +2537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2537,10 +2558,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2558,10 +2579,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2579,10 +2600,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -2600,10 +2621,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2621,10 +2642,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2642,10 +2663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "mymvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\",
       "BasePath": "_content/mymvc",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2666,7 +2687,7 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2703,7 +2724,7 @@
     },
     {
       "Route": "css/site.fli5qoqit7.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2748,7 +2769,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2793,7 +2814,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5050,7 +5071,7 @@
     },
     {
       "Route": "images/product/64abb71e-0cd6-4933-b657-51eb81e569bc.7v9dxz0biv.jpg",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\images\\product\\64abb71e-0cd6-4933-b657-51eb81e569bc.jpg",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\images\\product\\64abb71e-0cd6-4933-b657-51eb81e569bc.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5095,7 +5116,7 @@
     },
     {
       "Route": "images/product/64abb71e-0cd6-4933-b657-51eb81e569bc.jpg",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\images\\product\\64abb71e-0cd6-4933-b657-51eb81e569bc.jpg",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\images\\product\\64abb71e-0cd6-4933-b657-51eb81e569bc.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5132,7 +5153,7 @@
     },
     {
       "Route": "images/product/e884f83d-8897-468e-9865-4826cc940398.jpg",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\images\\product\\e884f83d-8897-468e-9865-4826cc940398.jpg",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\images\\product\\e884f83d-8897-468e-9865-4826cc940398.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5169,7 +5190,7 @@
     },
     {
       "Route": "images/product/e884f83d-8897-468e-9865-4826cc940398.zcrwf566jg.jpg",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\images\\product\\e884f83d-8897-468e-9865-4826cc940398.jpg",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\images\\product\\e884f83d-8897-468e-9865-4826cc940398.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5213,8 +5234,90 @@
       ]
     },
     {
+      "Route": "js/newschdule.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\js\\newschdule.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2FgyqO0oGeKdmKja83qnUenTzmZo3FJcBnsakSLJta4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 05:27:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2FgyqO0oGeKdmKja83qnUenTzmZo3FJcBnsakSLJta4="
+        }
+      ]
+    },
+    {
+      "Route": "js/newschdule.osautan4bi.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\js\\newschdule.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2FgyqO0oGeKdmKja83qnUenTzmZo3FJcBnsakSLJta4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 05:27:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "osautan4bi"
+        },
+        {
+          "Name": "label",
+          "Value": "js/newschdule.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2FgyqO0oGeKdmKja83qnUenTzmZo3FJcBnsakSLJta4="
+        }
+      ]
+    },
+    {
       "Route": "js/product.gzvbmmfh0k.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\js\\product.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\js\\product.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5259,7 +5362,7 @@
     },
     {
       "Route": "js/product.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\js\\product.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\js\\product.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5295,8 +5398,8 @@
       ]
     },
     {
-      "Route": "js/schedule.98lnowv6hm.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\js\\schedule.js",
+      "Route": "js/schedule.54tp2op8ge.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\js\\schedule.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5305,7 +5408,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2250"
+          "Value": "2878"
         },
         {
           "Name": "Content-Type",
@@ -5313,11 +5416,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OdMNStpjlSd/GNEkPKuwrHQO+9J4IULsX9nWMOC91MQ=\""
+          "Value": "\"W25ohSfUjuy05JimTwsWm8sMNs7fbn1lqHnVVfV6O8w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 14:54:01 GMT"
+          "Value": "Tue, 10 Dec 2024 05:26:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5327,7 +5430,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "98lnowv6hm"
+          "Value": "54tp2op8ge"
         },
         {
           "Name": "label",
@@ -5335,13 +5438,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OdMNStpjlSd/GNEkPKuwrHQO+9J4IULsX9nWMOC91MQ="
+          "Value": "sha256-W25ohSfUjuy05JimTwsWm8sMNs7fbn1lqHnVVfV6O8w="
         }
       ]
     },
     {
       "Route": "js/schedule.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\js\\schedule.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\js\\schedule.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5350,7 +5453,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2250"
+          "Value": "2878"
         },
         {
           "Name": "Content-Type",
@@ -5358,11 +5461,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OdMNStpjlSd/GNEkPKuwrHQO+9J4IULsX9nWMOC91MQ=\""
+          "Value": "\"W25ohSfUjuy05JimTwsWm8sMNs7fbn1lqHnVVfV6O8w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 14:54:01 GMT"
+          "Value": "Tue, 10 Dec 2024 05:26:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5372,13 +5475,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OdMNStpjlSd/GNEkPKuwrHQO+9J4IULsX9nWMOC91MQ="
+          "Value": "sha256-W25ohSfUjuy05JimTwsWm8sMNs7fbn1lqHnVVfV6O8w="
         }
       ]
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5415,7 +5518,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5460,7 +5563,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.3r480j2wqp.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5505,7 +5608,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5542,7 +5645,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5587,7 +5690,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5624,7 +5727,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5669,7 +5772,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5706,7 +5809,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5751,7 +5854,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5788,7 +5891,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5825,7 +5928,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5870,7 +5973,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5907,7 +6010,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5952,7 +6055,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5989,7 +6092,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6034,7 +6137,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6071,7 +6174,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6116,7 +6219,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6161,7 +6264,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6198,7 +6301,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6235,7 +6338,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6280,7 +6383,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6317,7 +6420,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6362,7 +6465,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6399,7 +6502,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6444,7 +6547,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6481,7 +6584,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6526,7 +6629,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6563,7 +6666,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6600,7 +6703,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6637,7 +6740,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6682,7 +6785,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6727,7 +6830,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6772,7 +6875,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6817,7 +6920,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6854,7 +6957,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6899,7 +7002,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6936,7 +7039,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6973,7 +7076,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7010,7 +7113,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7055,7 +7158,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7100,7 +7203,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7145,7 +7248,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7182,7 +7285,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7227,7 +7330,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7264,7 +7367,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7301,7 +7404,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7338,7 +7441,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7383,7 +7486,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7428,7 +7531,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7465,7 +7568,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7510,7 +7613,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7547,7 +7650,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7592,7 +7695,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7629,7 +7732,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7666,7 +7769,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7711,7 +7814,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7756,7 +7859,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7793,7 +7896,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7838,7 +7941,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7875,7 +7978,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7912,7 +8015,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7957,7 +8060,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7994,7 +8097,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8039,7 +8142,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8084,7 +8187,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8121,7 +8224,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8166,7 +8269,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8203,7 +8306,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8248,7 +8351,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8293,7 +8396,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8330,7 +8433,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8375,7 +8478,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8412,7 +8515,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8449,7 +8552,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8494,7 +8597,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8531,7 +8634,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8576,7 +8679,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8613,7 +8716,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8650,7 +8753,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8695,7 +8798,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8740,7 +8843,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8777,7 +8880,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8822,7 +8925,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8859,7 +8962,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8896,7 +8999,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8933,7 +9036,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8978,7 +9081,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9023,7 +9126,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9068,7 +9171,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9105,7 +9208,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9150,7 +9253,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9195,7 +9298,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9232,7 +9335,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9277,7 +9380,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9322,7 +9425,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9359,7 +9462,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9396,7 +9499,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9441,7 +9544,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9478,7 +9581,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9523,7 +9626,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9560,7 +9663,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9605,7 +9708,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9642,7 +9745,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9679,7 +9782,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9724,7 +9827,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9761,7 +9864,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9806,7 +9909,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9843,7 +9946,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9888,7 +9991,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9933,7 +10036,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9970,7 +10073,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10015,7 +10118,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10052,7 +10155,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10097,7 +10200,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10134,7 +10237,7 @@
     },
     {
       "Route": "mymvc.bundle.scp.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\mymvc.bundle.scp.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\mymvc.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10171,7 +10274,7 @@
     },
     {
       "Route": "mymvc.jijnblkndp.bundle.scp.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\mymvc.bundle.scp.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\mymvc.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10216,7 +10319,7 @@
     },
     {
       "Route": "mymvc.jijnblkndp.styles.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\mymvc.styles.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\mymvc.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10261,7 +10364,7 @@
     },
     {
       "Route": "mymvc.styles.css",
-      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\mymvc.styles.css",
+      "AssetFile": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\mymvc.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {

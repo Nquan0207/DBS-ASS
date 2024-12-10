@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mymvc.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddf3c18cfe443a42f896b1eff57e67a94c1b4c02")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db728bccec2b480ae443ce234aa4bcf14fc5fcf5")]
 [assembly: System.Reflection.AssemblyProductAttribute("mymvc.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mymvc.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

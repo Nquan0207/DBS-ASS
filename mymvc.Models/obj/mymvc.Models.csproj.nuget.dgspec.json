@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc.Models\\mymvc.Models.csproj": {}
+    "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc.Models\\mymvc.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc.Models\\mymvc.Models.csproj": {
+    "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc.Models\\mymvc.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc.Models\\mymvc.Models.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc.Models\\mymvc.Models.csproj",
         "projectName": "mymvc.Models",
-        "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc.Models\\mymvc.Models.csproj",
+        "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc.Models\\mymvc.Models.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\Software Engineering\\MVC\\mymvc.Models\\obj\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Study\\DBS\\MVC\\mymvc.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

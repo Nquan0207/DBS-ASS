@@ -5,38 +5,46 @@ $(document).ready(function () {
 });
 
 function loadDataTable() {
-    // Fetch the role information along with the data
-    $.getJSON('/admin/schedule/getall', function (response) {
-        var isAdmin = response.isAdmin;
+    $.ajax({
+        url: '/admin/schedule/getall',
+        type: 'GET',
+        success: function (response) {
+            if (!response.data) {
+                console.error('Error: No data found in the response');
+                toastr.error('Failed to load data.');
+                return;
+            }
 
-        dataTable = $('#tblSchedule').DataTable({
-            "data": response.data,
-            "columns": [
-                { data: 'course.courseName', "width": "25%" },
-                { data: 'course.credit', "width": "10%" },
-                { data: 'time', "width": "10%" },
-                { data: 'date', "width": "15%" },
-                { data: 'location', "width": "15%" },
-                {
-                    data: 'scheduleId',
-                    "render": function (data) {
-                        // Render the edit and delete buttons only for admins
-                        let buttons = `<div class="w-75 btn-group" role="group">
-                            <a href="/admin/schedule/upsert?id=${data}" class="btn btn-primary mx-2">
-                                <i class="bi bi-pencil-square"></i> Edit</a>`;
+            var isAdmin = response.isAdmin;
 
-                        if (isAdmin) {
-                            buttons += `<a onClick=Delete('/admin/schedule/delete/${data}') class="btn btn-danger mx-2">
-                                <i class="bi bi-trash-fill"></i> Delete</a>`;
-                        }
+            dataTable = $('#tblSchedule').DataTable({
+                "data": response.data,
+                "columns": [
+                    { data: 'course.courseName', "width": "25%" },
+                    { data: 'course.credit', "width": "10%" },
+                    { data: 'time', "width": "10%" },
+                    { data: 'date', "width": "15%" },
+                    { data: 'location', "width": "15%" },
+                    {
+                        data: 'scheduleId',
+                        "render": function (data) {
+                            let buttons = `<div class="w-75 btn-group" role="group">
+                                <a href="/admin/schedule/upsert?id=${data}" class="btn btn-primary mx-2">
+                                    <i class="bi bi-pencil-square"></i> Edit</a>`;
 
-                        buttons += `</div>`;
-                        return buttons;
-                    },
-                    "width": "25%"
-                }
-            ]
-        });
+                            if (isAdmin) {
+                                buttons += `<a onClick=Delete('/admin/schedule/delete/${data}') class="btn btn-danger mx-2">
+                                    <i class="bi bi-trash-fill"></i> Delete</a>`;
+                            }
+
+                            buttons += `</div>`;
+                            return buttons;
+                        },
+                        "width": "25%"
+                    }
+                ]
+            });
+        },
     });
 }
 
@@ -55,8 +63,16 @@ function Delete(url) {
                 url: url,
                 type: 'DELETE',
                 success: function (data) {
-                    dataTable.ajax.reload();
-                    toastr.success(data.message);
+                    if (data.success) {
+                        dataTable.ajax.reload(); // Reload table without resetting paging
+                        toastr.success(data.message);
+                    } else {
+                        toastr.error(data.message);
+                    }
+                },
+                error: function (xhr) {
+                    console.error("Error:", xhr.responseText);
+                    toastr.error("An unexpected error occurred.");
                 }
             });
         }
